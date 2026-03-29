@@ -16,21 +16,16 @@
 ---
 
 ### **🕷️ Who Am I?**
-- 🔭 Pursuing a **Cybersecurity Bachelor's Degree in Science**.
-- 🖤 A storyteller of the eerie and unknown.  
-- 🎭 A creator of **psychological horror** and immersive experiences.  
-- 💾 Passionate about **game development, cybersecurity, and worldbuilding**.
-- 🌱 Exploring **Python, Swift, Rust, C, and JavaScript**.  
-- 🔮 Inhabiting the liminal spaces between **dark academia, cryptic horror, and tech.**  
-- 🎮 Currently working on **One Step Away**, a **psychological horror text adventure**.
+- 🔭 Pursuing a **Information Systems Master's Degree in Science, w/ a Concentration in Computer Forensics**.
+- 💾 Passionate about **forensics, cybersecurity, and worldbuilding**.
+- 🌱 Returning to **Python, Swift, and JavaScript**.   
+- 🎮 Currently working on **code scripting**, **multiple coding projects**.
 - 📫 Ways to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-lavender?style=for-the-badge&logoColor=E6E6FA)](www.linkedin.com/in/ayana-lopez-7a048a268)
 
 ---
 
 ### **🩸 What I'm Working On**
-💀 **One Step Away** – A psychological horror game where choices shape the protagonist’s sanity.  
-📖 **Worldbuilding & Lorecrafting** – Developing cryptic species like the **Juboli** and **Ossivane**.  
-🎮 **Experimenting with Game Development** – Blending **narrative horror and interactive fiction**.  
+📖 **Code Scripting Projects** – A series of projects challenging my understanding of programming languages, like Python, and introducing Code Scripting.
 
 ---
 
@@ -38,7 +33,6 @@
 🖥️ **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/-Python-222?style=for-the-badge&logo=python)  
 ![C](https://img.shields.io/badge/-C-222?style=for-the-badge&logo=c)  
-![Rust](https://img.shields.io/badge/-Rust-222?style=for-the-badge&logo=rust)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=javascript)  
 
 🔧 **Tools & Environments:**  
@@ -49,15 +43,13 @@
 ---
 
 ### **🌑 Current Obsession**
-🦇 Diving deeper into **psychological horror mechanics** in game design.  
-📜 Researching **dark academia aesthetics & cryptic storytelling techniques**.  
-📂 Perfecting the **gameplay experience of One Step Away**.  
+🦇 Diving deeper into **worldbuilding and creative outlets** with Dnd.  
+📜 Researching **security and cloud infrastructure in digital forensics**.  
+📂 Reviewing and honing my **skills related to code scripting**.  
 
 ---
 
-### **📫 Where to Find Me**
-🐦 **Twitter:** [@YourHandle](https://twitter.com/)  
-💀 **Itch.io (Future Game Releases):** [YourGamePage](https://itch.io/)  
+### **📫 Where to Find Me** 
 👾 **GitHub Projects:** [GitHub](https://github.com/YourGitHubProfile)  
 
 ---
